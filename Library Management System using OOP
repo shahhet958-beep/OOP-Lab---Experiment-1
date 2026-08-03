@@ -1,0 +1,12 @@
+Title : Library Management System using OOP
+
+Description :
+This project demonstrates Object-Oriented Programming by implementing a simple Library Management System.
+
+Features :
+
+- Add Books
+- Register Patrons
+- Borrow Books
+- Return Books
+- Display Library Information
